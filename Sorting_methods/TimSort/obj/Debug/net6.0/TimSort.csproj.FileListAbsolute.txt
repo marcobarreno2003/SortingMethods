@@ -1,0 +1,15 @@
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\TimSort.exe
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\TimSort.deps.json
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\TimSort.runtimeconfig.json
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\TimSort.dll
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\ref\TimSort.dll
+C:\Users\barre\code\Sorting_methods\TimSort\bin\Debug\net6.0\TimSort.pdb
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.csproj.AssemblyReference.cache
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.AssemblyInfoInputs.cache
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.AssemblyInfo.cs
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.csproj.CoreCompileInputs.cache
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.dll
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\ref\TimSort.dll
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.pdb
+C:\Users\barre\code\Sorting_methods\TimSort\obj\Debug\net6.0\TimSort.genruntimeconfig.cache
